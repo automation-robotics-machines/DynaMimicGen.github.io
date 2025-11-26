@@ -88,3 +88,18 @@ More tasks will be added soon.
   year={2025}
 }
 ```
+
+## Citation
+If you use **MultiPhysio‑HRC** or this code, please cite the paper:
+
+```bibtex
+@misc{bussolan2025multiphysiohrcmultimodalphysiologicalsignals,
+      title={MultiPhysio-HRC: Multimodal Physiological Signals Dataset for industrial Human-Robot Collaboration}, 
+      author={Andrea Bussolan and Stefano Baraldo and Oliver Avram and Pablo Urcola and Luis Montesano and Luca Maria Gambardella and Anna Valente},
+      year={2025},
+      eprint={2510.00703},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2510.00703}, 
+}
+```
